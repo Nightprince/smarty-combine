@@ -18,7 +18,7 @@
  *
  * @author Gorochov Ivan <dead23angel at gmail dot com>
  * @author Vital Smereka <vds911 at yandex dot com>
- * @version 1.1
+ * @version 1.3
  * @param array
  * @param string
  * @param int
