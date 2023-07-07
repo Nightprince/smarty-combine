@@ -1,6 +1,6 @@
 
 {
-    "name": "dead23angel/smarty-combine",
+    "name": "nightprince/smarty-combine",
     "description": "Combine and minify many JS or CSS to one file.",
     "license": "MIT",
     "keywords": [
