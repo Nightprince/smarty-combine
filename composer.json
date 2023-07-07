@@ -9,6 +9,11 @@
     ],
     "authors": [
         {
+            "name": "Keramat Jokar",
+            "homepage": "https://github.com/Nightprince",
+            "role": "Developer"
+        },
+        {
             "name": "Vital Smereka",
             "homepage": "https://github.com/2nlin3",
             "role": "Developer"
@@ -26,6 +31,6 @@
     ],
     "require": {
         "php": ">=5.6.40",
-        "smarty/smarty": "~4.1.0"
+        "smarty/smarty": "^4.1"
     }
 }
